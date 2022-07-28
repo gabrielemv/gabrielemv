@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @gabrielemv
 - 👀 I'm interested in developing code
-- 🌱 I'm currently learning python3
+- 🌱 I'm currently learning python3, android, etc...
 
 
 <!---
