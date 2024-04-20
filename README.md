@@ -14,7 +14,7 @@ Se você compartilha o mesmo interesse em backend ou tem alguma ideia para discu
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="Gabi-Python"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="Gabi-Python"  src="https://github.com/gabrielemv/gabrielemv/edit/main/icon_java.svg">
     <img align="center" height="30" width="40" alt="Gabi-Java"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://icon-icons.com/pt/icone/java-original-a-marca-logo/146459)">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
