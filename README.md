@@ -1,8 +1,7 @@
 ## Oiii eu sou a Gabriele Valadares!
 
-Eu sou uma Engenheira Agrônoma que também é uma Dev apaixonada por tecnologia. Constantemente me envolvo em estudos de diferentes linguagens de programação, buscando unir o melhor de ambos os campos. Minha dedicação incansável e meu amor pelo aprendizado me mantêm atualizada com as últimas tendências e avanços, permitindo que eu crie soluções inovadoras que impulsionam o setor agrícola e transformam a forma como produzimos alimentos. 
-
-Junte-se a mim nessa emocionante jornada em que a agricultura e a tecnologia se encontram, enquanto construímos um futuro sustentável e promissor juntos!
+Eu sou uma Engenheira Agrônoma que também é uma estudante de desenvolvimento backend. Minha jornada no mundo da programação começou com Python e FastAPI e desde então venho explorando diversas tecnologias, incluindo Java, Spring boot e Docker.
+Se você compartilha o mesmo interesse em backend ou tem alguma ideia para discutir, ficarei feliz em conectar!
 <div>
   
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielemv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
