@@ -1,6 +1,6 @@
 ## Oiii eu sou a Gabriele Valadares!
 
-Eu sou uma Engenheira Agrônoma que também é uma estudante de desenvolvimento backend. Minha jornada no mundo da programação começou com Python e FastAPI e desde então venho explorando diversas tecnologias, incluindo Java, Spring boot e Docker.
+Desenvolvedora backend iniciante, com conhecimento em Python, MySQL e QGIS. Tenho experiência na automação de processos, integração de APIs e desenvolvimento de scripts para otimização de fluxos de trabalho. Familiaridade com Postman para testes de APIs, MySQL Workbench para gerenciamento de bancos de dados e Docker para configuração de ambientes. Interesse em análise de dados e desenvolvimento de soluções tecnológicas, com perfil analítico e foco na criação de soluções eficientes e inovadoras.
 Se você compartilha o mesmo interesse em backend ou tem alguma ideia para discutir, ficarei feliz em conectar!
 <div>
   
